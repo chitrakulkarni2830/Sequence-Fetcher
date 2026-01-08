@@ -23,3 +23,11 @@ In the life sciences and pharmaceutical sectors, data analytics begins with high
 -   **Central Dogma Simulation:** Instant translation of DNA sequences into Protein (Amino Acid) sequences, calculating chain length and stop codon placement.
 -   **Remote BLAST Search:** Executes a `blastn` search against the 'nt' database to find top organism matches and identity percentages.
 -   **Data Management:** Save retrieved and processed data into standard FASTA format for use in downstream bioinformatics pipelines.
+
+
+📂 Installation & Usage
+Clone the repository:
+git clone [https://github.com/chitrakulkarni2830/Sequence-Fetcher.git](https://github.com/chitrakulkarni2830/Sequence-Fetcher.git)
+
+Install dependencies:
+pip install biopython
